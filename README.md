@@ -5,6 +5,11 @@ A hybrid Q&A agent for Valorant esports data. It combines:
 - Retrieval-augmented generation (RAG) over curated articles for context.
 - A synthesis step that prioritizes SQL facts and uses RAG for explanations.
 
+## Demo
+![Demo 1](docs/images/demo1.png)
+
+![Demo 2](docs/images/demo2.png)
+
 ## How it works
 1. **SQL agent** queries `warehouse/vct.sqlite` for factual answers.
 2. **RAG chain** retrieves relevant chunks from `app/rag/data/articles.json`.

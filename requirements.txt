@@ -1,0 +1,16 @@
+streamlit 
+pandas 
+pyarrow 
+sqlalchemy 
+python-dotenv 
+nltk 
+langchain 
+langchain-core 
+langchain-community 
+langchain-text-splitters 
+langchain-groq 
+langchain-google-genai 
+langchain-huggingface 
+langchain-chroma 
+chromadb 
+sentence-transformers
