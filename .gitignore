@@ -1,0 +1,41 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+
+# Virtual environments
+.venv/
+venv/
+env/
+.env/
+pip-wheel-metadata/
+
+# Python tooling caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# raw dataset
+dataset/
+
+# Project caches and indexes
+cache/
+.cache/
+app/cache/
+app/rag/index/
+app/rag/__pycache__/
+
+# Logs
+*.log
