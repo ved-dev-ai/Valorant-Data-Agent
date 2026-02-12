@@ -34,7 +34,6 @@ dataset/
 cache/
 .cache/
 app/cache/
-app/rag/index/
 app/rag/__pycache__/
 
 # Logs
